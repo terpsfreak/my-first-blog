@@ -1,3 +1,4 @@
+"""Importing URLs from mysite URLs."""
 from django.urls import path
 from . import views
 
