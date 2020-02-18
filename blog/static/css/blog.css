@@ -28,7 +28,16 @@ h1, h2, h3, h4 {
 }
 
 .date {
+    text-align: right;
     color: #828282;
+}
+
+.btn btn-default {
+  text-align: right;
+}
+
+.glyphicon .glyphicon-pencil {
+  align: right;
 }
 
 .save {
